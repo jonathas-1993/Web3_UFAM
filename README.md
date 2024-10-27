@@ -1,4 +1,4 @@
-# 👋 Welcome
+# 👋 Welcome (Jesus is the LORD of All!!!)
 
 ## 🧑‍🔬 About Me
 
