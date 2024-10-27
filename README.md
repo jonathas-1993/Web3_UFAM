@@ -2,23 +2,23 @@
 
 ## 🧑‍🔬 About Me
 
-I am an engineer, researcher, and developer, passionate about technology, innovation, and impactful projects. With experience ranging from **integrated circuit design** to **blockchain applications**, I work on solutions that combine security, efficiency, and cutting-edge technology to address real-world challenges.
+I’m an engineer, researcher, and developer passionate about technology, blockchain applications, and impactful projects.
 
-- 🔬 I’m part of the **Research Group on Semiconductor Devices and Applications**, contributing to high-level research in the **Northern region** of Brazil. We specialize in **semiconductors for PIM** and train the next generation of experts in the field.
-  
-- 🌱 I’m currently exploring **blockchain** technologies and their applications.
+- 🔬 **Semiconductor Research**: Contributing to high-level semiconductor research in Brazil’s **Northern region** as part of the **Research Group on Semiconductor Devices and Applications**.
+- 🌍 **Blockchain**: Exploring and developing blockchain-based solutions for different applications.
+
 ---
-## 🔧 What I’m Working On
+
+## 🚀 What I’m Working On
 
 ### 🔹 Blockchain Projects
-- **Blockchain P2P Games**: Developing peer-to-peer games over UTXOs, including "Odd or Even," "Jo Ken Po," "Secret Door," and "Battleship," using encryption techniques to ensure secure, verifiable, and fair gameplay.
-- **IoT Applications Using Blockchain**: Creating IoT solutions for secure data transmission, automation, and real-time monitoring, leveraging blockchain for increased security, transparency, and decentralized control.
-- **Immutable Health Data Platform**: A secure, blockchain-based platform for patients to manage their lifelong health data.
-- **Forest Inventory Management**: A blockchain platform for registering and managing forest areas, including tree inventories and preservation efforts through NFTs and smart contracts.
+| Project                                | Description                                                                                      |
+|----------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Immutable Health Data Platform**     | A secure, blockchain-based platform for patients to manage their lifelong health data.           |
+| **Forest Inventory Management**        | A blockchain-based system for forest area and tree inventory management using NFTs and smart contracts. |
+| **Blockchain P2P Games**               | Peer-to-peer games over UTXOs like "Odd or Even," "Jo Ken Po," using encryption for fair gameplay. |
+| **IoT Applications Using Blockchain**  | Creating IoT solutions for secure data transmission, automation, and real-time monitoring.        |
 
----
-## 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/carlosamcruz)
 ---
 
 ## 🚀 Technologies and Tools
@@ -36,7 +36,7 @@ Feel free to reach out to discuss potential collaborations, research opportuniti
 
 - 📧 Email: [carlosamcruz@ufam.edu.br]
 - 🌐 LinkedIn: [https://www.linkedin.com/in/carlos-augusto-de-moraes-cruz-7364a437/]
-- 💬 Instagram (Humor Content): [carlosamcruz]
+- 💬 Instagram: [carlosamcruz]
 
 
 <!--
