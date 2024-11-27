@@ -14,7 +14,7 @@ I’m an engineer, researcher, and developer passionate about technology, blockc
 ### 🔹 Blockchain Projects
 | Project                                | Description                                                                                      |
 |----------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Precious Data Protocol - PDP**       | Protocolo de Encriptação - Decriptação Simétrica de dados com "One-Time Pad Key" do tamado do dado|
+| **Precious Data Protocol - PDP**       | Protocolo de Encriptação - Decriptação Simétrica de dados com "One-Time Pad Key" do tamanho do dado|
 | **Brute Force Methodologies for ECC**  | Developing methodologies to increase the probability of point collisions in Elliptic Curve Cryptography (ECC).. |
 | **Blockchain P2P Games**               | Peer-to-peer games over UTXOs like "Odd or Even," "Jo Ken Po," using encryption for fair gameplay. |
 | **IoT Applications Using Blockchain**  | Creating IoT solutions for secure data transmission, automation, and real-time monitoring.        |
